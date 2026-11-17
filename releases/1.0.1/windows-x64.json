@@ -1,0 +1,12 @@
+{
+  "product": "sannlicense-desktop",
+  "version": "1.0.1",
+  "channel": "stable",
+  "platform": "windows-x64",
+  "archiveUrl": "https://imsanncatemperor-hue.github.io/sannlicense-updates/releases/1.0.1/SannLicense-Desktop-1.0.1-windows-x64.zip",
+  "sha256": "8e25334f1c12fe97d0848a3609e81664a6ab97b772d5597263069c435770b70f",
+  "sizeBytes": 28418011,
+  "releaseNotesUrl": "",
+  "publishedAt": "2026-11-17T01:25:48.524532200Z",
+  "signature": "SHQu92evyURP/jhhgkuBhjwIOYgNB7HGTgLYBTdxCO0Zyrw0i9zcCsNRuStRVZOsh71eFL4Qa1OMhBgLvsTTDw=="
+}
